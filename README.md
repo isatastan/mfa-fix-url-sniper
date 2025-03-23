@@ -1,1 +1,1 @@
-# mfa-fix-url-sniper
+merhaba velet orospu cocukları bugün mfa fixli url sniper dağıtıyoruz 60003ü geçmektedir eğer hata alırsanız discord.gg/505shop dan ticket acarak yazabilirsiniz deobf yaparakda bakabılırsınız mal bilgi hırsızları gibi grab falan koymadık bu kodu editleyipde satanalara prim vermeyiniz
