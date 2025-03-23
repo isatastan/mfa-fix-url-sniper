@@ -5,9 +5,9 @@ import extractJsonFromString from 'extract-json-from-string';
 import axios from 'axios';
 import https from 'https';
 
-const token = 'MTM1Mjk1NzYzMjgzMDUwOTExOQ.Gohaeo.ADZPMOblVG4P1aN5ConSDzeCl7fnkAUMOHlrKY'; 
-const password = 'kolonyasatıcı123'; 
-const serverId = '1351955567735865436'; 
+const token = ''; 
+const password = ''; 
+const serverId = ''; 
 const gatewayURL = 'wss://gateway-us-east1-b.discord.gg';
 const webhookURL = ''; 
 let vanity;
